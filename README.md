@@ -1,10 +1,12 @@
 ## Welcome ##
 
-Thanks for visiting my repo.
+Thanks for visiting my repo, it's kind of a work in progress... 
+
+i.e. perpetually a work in progress...
 
 I am a full stack software engineer living and working in Seattle, WA.  I am passionate about highly performant apps, and love working in audio, video, and crypto applications. 
 
-I work on iOS, Android, and IoT applications and the cloud based services they consume.
+I work on iOS, Android, and IoT applications and the cloud based services they consume. 
 
 ---
 
@@ -14,6 +16,7 @@ I work on iOS, Android, and IoT applications and the cloud based services they c
 * [Primary Programming Languages](#primary-programming-languages)
 * [Other Programming Lanaguages](#other-programming-languages-i-work-with)
 * [Last Three Gigs](#last-three-gigs)
+* [My Display Case Repo](http://github.com/boltzmanncascade/displaycase)
 
 ---
 
@@ -37,7 +40,6 @@ Early on I worked with high-capacity distributed and computational systems utili
 Go
 
 >I am relatively new to Go, I have been working with it for just about two years now.  I am very familiar with and I am a big fan of the go/docker pairing for quickly standing up services for mobile clients to consume.
-
 I have workd with both Redis and Dynamo as persistence stores, I am familiar with the proper use of channels, debugging using dlv, and TDD using a number of test frameworks.
 
 Python
